@@ -1,4 +1,3 @@
-package src;
 public class HelloCourse
 {
     public static void main(String[] args) 
