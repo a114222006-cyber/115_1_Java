@@ -1,5 +1,4 @@
-public class OperatorDemo {
-    public static void main(String[] args) {
+ public static void main(String[] args) {
         int energy = 7;
         System.out.println(energy / 20 * 100.0);
         System.out.println((double) (energy / 20) * 100);
@@ -31,4 +30,4 @@ public class OperatorDemo {
         System.out.println("右側檢查已執行");
         return true;
     }
-}
+
